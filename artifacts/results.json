@@ -1,0 +1,17 @@
+{
+  "student_name": "SriHarsha Bodicherla",
+  "roll_no": "2022BCD0002",
+  "dataset": "winequality-red.csv",
+  "model_name": "lasso",
+  "test_size": 0.2,
+  "random_state": 42,
+  "scaler": "standard",
+  "feature_selection": "k_best",
+  "k_best_features": 8,
+  "model_params": {
+    "alpha": 0.1
+  },
+  "mse": 0.4392249149065927,
+  "r2_score": 0.327894450209431,
+  "model_path": "/Users/harshamac/Documents/New project/outputs/trained_model.pkl"
+}
